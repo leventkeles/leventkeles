@@ -23,11 +23,7 @@
     <tr>
       <td align="center">Key Features<br>
         <td align="center">
-          
-          <br>
-
-<span style="display:block" class="note">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</span>
-
+          <span style="display:block" class="note">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</span>
     </td>
     </tr>
   </tbody>
