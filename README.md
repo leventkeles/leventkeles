@@ -22,8 +22,8 @@
   <tbody>
     <tr>
       <td align="center">Key Features<br>
-        <td align="center">Key Features2<br>
-     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | 
+        <td align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)<br>
+
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
