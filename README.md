@@ -22,7 +22,9 @@
   <tbody>
     <tr>
       <td align="center">Key Features<br>
-        <td align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)<br>
+        <td align="center">
+          [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+          <br>
 
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
