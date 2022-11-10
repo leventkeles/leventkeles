@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firabse,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
   </a>
 </p>
 
