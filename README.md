@@ -14,19 +14,13 @@
 <h4 align="center">I have Experience on</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=cs,php" />
   </a>
 </p>
 
 
 
-<p align="center">
-
-  | `I have Experience on`|
-| ------------- |
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | 
-  
-</p>
 
 
 
