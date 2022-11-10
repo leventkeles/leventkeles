@@ -6,12 +6,6 @@
   <img src="https://raw.githubusercontent.com/leventkeles/leventkeles/main/profile2.png" width="50%">
 </p>
 
-<p align="center">
-  
-  # ‏‏‏‏‏‏‏‏     
-
-  
- <h3>Hi, I'm Levent!</h3>
-</p>
+<h3 align="center">Hi, I'm Levent!</h3>
 
 
