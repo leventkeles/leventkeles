@@ -34,5 +34,7 @@
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;</span>
       </td>
+        </td>
+    </td>
     </tr>
   </tbody>
