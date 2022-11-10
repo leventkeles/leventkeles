@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leventkeles/leventkeles/main/drkmdalt.png" width="100%">
+  <img src="https://raw.githubusercontent.com/leventkeles/leventkeles/main/darkmdalt.png" width="100%">
 </p>
 
 
